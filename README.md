@@ -5,5 +5,7 @@ María del Cisne Valarezo Román
 
 - [Creacion del Laberinto](laberinto/src/laberinto/LaberintoPostalLoja.java)
 - [Visualizador del Laberinto](laberinto/src/laberinto/LaberintoVentana.java)
+# Vista del Proyecto 
+
 
 
